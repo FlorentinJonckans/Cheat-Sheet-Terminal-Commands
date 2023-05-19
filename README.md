@@ -1,41 +1,41 @@
 # Cheat-Sheet-Terminal-Commands
 
-`cd`
+`cd`:
 Change the directory that you’re currently working with.
 
-`ls -l`
+`ls -l`:
 List all the files and folders from the current position on the terminal.
 
-`cp <fileName> <locationFolder>`
+`cp <fileName> <locationFolder>`:
 Copy a file from one location to another.
 
-`mv <fileName> <locationFolder>`
+`mv <fileName> <locationFolder>`:
 Move a file from one location to another.
   
-`touch <fileName>`
+`touch <fileName>`:
 Create any type of empty file.
   
-`mkdir <folderName>`
+`mkdir <folderName>`:
 Create an empty folder.
   
-`rmdir <locationFolder>`
+`rmdir <locationFolder>`:
 Remove a directory from a path.
 
-`rm -R`
+`rm -R`:
 Remove a directory from a path recursively.
   
-`sudo`
+`sudo`:
 Elevate your user privileges while executing the command to administrator privileges.
   
-`q`
+`q`:
 End execution of the process by pressing the q key on your keyboard.
 
-`Clear`
+`Clear`:
 Remove all previously typed commands from the Terminal view.
   
-`man`
+`man`:
 Show you the most commands in the Terminal ship with a manual that allows you to get help
   
-`exit`
+`exit`:
 Close out the current session in the Terminal
 
